@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="648f8842-bd3d-43b0-ad50-d1d556ae25cb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/keya/maven/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/keya/maven/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/keya/maven/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/keya/maven/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/calculator-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/keya/maven/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/keya/maven/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.keya.maven.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.keya.maven.AppTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.keya.maven.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.keya.maven.AppTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/keya/maven/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/keya/maven/AppTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="648f8842-bd3d-43b0-ad50-d1d556ae25cb" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -147,6 +138,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -232,7 +224,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558461793421</updated>
-      <workItem from="1558461797362" duration="5445000" />
+      <workItem from="1558461797362" duration="5637000" />
     </task>
     <servers />
   </component>
@@ -254,7 +246,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5445000" />
+    <option name="totallyTimeSpent" value="5637000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
